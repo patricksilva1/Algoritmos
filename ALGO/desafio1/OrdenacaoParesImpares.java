@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
+// Big O(n log n)
 public class OrdenacaoParesImpares {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

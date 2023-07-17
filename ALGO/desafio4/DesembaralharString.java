@@ -2,6 +2,7 @@ package desafio4;
 
 import java.util.Scanner;
 
+// Big O(n)
 public class DesembaralharString {
 
 	public static void main(String[] args) {

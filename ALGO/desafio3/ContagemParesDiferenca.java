@@ -3,6 +3,7 @@ package desafio3;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// Big O(n log n)
 public class ContagemParesDiferenca {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

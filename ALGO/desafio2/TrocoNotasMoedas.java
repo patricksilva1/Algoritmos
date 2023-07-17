@@ -2,6 +2,7 @@ package desafio2;
 
 import java.util.Scanner;
 
+// Big O(1)
 public class TrocoNotasMoedas {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
